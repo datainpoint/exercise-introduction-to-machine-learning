@@ -1,7 +1,7 @@
-# suggested-answer-array-computing-with-numpy
+# suggested-answer-basic-pandas
 
-> Suggested answers for array computing with NumPy.
+> Suggested answers for basic pandas.
 
 ## Topics
 
-- numpy
+- pandas
