@@ -1,6 +1,6 @@
-# suggested-answer-basic-pandas
+# suggested-answer-advanced-pandas
 
-> Suggested answers for basic pandas.
+> Suggested answers for advanced pandas.
 
 ## Topics
 
