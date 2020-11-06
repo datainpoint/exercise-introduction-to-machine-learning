@@ -1,6 +1,6 @@
-# suggested-answer-advanced-pandas
+# exercise-advanced-pandas
 
-> Suggested answers for advanced pandas.
+> Exercises for advanced pandas.
 
 ## Topics
 
