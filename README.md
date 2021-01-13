@@ -1,3 +1,5 @@
-# exercise-extract-feature-matrix-target-vector
+# exercise-introduction-to-machine-learning
 
-> Exercises: Extract feature matrix and target vector.
+> Exercises: Introduction to machine learning.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/exercise-introduction-to-machine-learning/HEAD)
