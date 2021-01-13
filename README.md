@@ -1,7 +1,3 @@
-# exercise-hw4-ntnu-fall-2020
+# exercise-extract-feature-matrix-target-vector
 
-> Exercises for HW4, NTNU, fall, 2020.
-
-## Topics
-
-- pandas
+> Exercises: Extract feature matrix and target vector.
